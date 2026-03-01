@@ -12,9 +12,13 @@ body {
     
 }
 
-.projects {
-    max-width: 760px;
+.contact-container {
     margin: 0 auto;                     /*pushes equal space on both sides, centering the container horizontally.*/
+}
+
+.projects-container {
+    max-width: 760px;
+    margin: 0 auto;
 
 }
 
