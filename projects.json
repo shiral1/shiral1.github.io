@@ -3,7 +3,12 @@
         "title": "Thinking Through Computer Science",
         "description": "Capturing the evolution of perspective",
         "tag": "Writing",
-        "status": "in-progress",
-        "url": "N/A"
+        "status": "in-progress"
+    },
+    {
+        "title": "Wearable gas monitor & visualization app",
+        "description": "CO, CH4, ESP32, I2C",
+        "tag": "hardware",
+        "status": "finished"
     }
 ]

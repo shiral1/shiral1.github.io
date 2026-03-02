@@ -4,7 +4,7 @@
     --accent: lightblue;
     --text: saddlebrown;
     --gen-font-fam: 'Courier New', Courier, monospace;
-    --container-max-width: 760px;
+    --container-max-width: 50vw;                                /*half screen width*/
     --container-contact-container: 0 10rem 0;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .contact-container {
     max-width: var(--container-max-width);
-    margin: 0 auto;                     /*pushes equal space on both sides, centering the container horizontally.*/
+    margin: 0 auto;                                             /*pushes equal space on both sides, centering the container horizontally.*/
     padding: var(--container-contact-container);
 }
 
