@@ -5,7 +5,6 @@ function renderProjects(projects) {
   projects.forEach(p => {
     const el = document.createElement('a');
     el.className = 'project-item';
-    el.href = p.url || '#';
     el.target = '_blank';
     el.innerHTML = `
       <h3>${p.title}</h3>
